@@ -8,6 +8,7 @@ public class webTest {
 	public void login()
 	{
 		System.out.println("Login success");
+		System.out.println("New line - Git");
 	}
 	
 	@Test
